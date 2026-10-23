@@ -6,6 +6,7 @@
 ![Editor](https://img.shields.io/badge/editor-VS%20Code-007ACC)
 
 Personal ball game tutorial (from: Programming with Nick)
+
 What's in it:
 - Created game object
 - Created window
